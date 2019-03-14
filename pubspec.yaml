@@ -1,0 +1,8 @@
+name: test_ed25519_issue
+version: 0.0.1
+description: troubleshooting on ed25519 issue
+
+dependencies:
+  args: ^1.5.1
+  tweetnacl: ^0.3.1
+  test: ^1.5.3
